@@ -4,8 +4,8 @@ scripts/_*.mjs
 scripts/_*.mts
 check.db
 .next
-out
-build
+/out
+/build
 .DS_Store
 *.pem
 .env
